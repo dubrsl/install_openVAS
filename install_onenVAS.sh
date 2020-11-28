@@ -292,11 +292,11 @@ run_services() {
 }
 
 
-# install_packages
-# install_pg
-# clone_repos
-# build_packages_Libs
-# configure_services_OpenVAS
-# configure_services_GVM
-# configure_services
-# run_services
+install_packages
+install_pg
+clone_repos
+build_packages_Libs
+configure_services_OpenVAS
+configure_services_GVM
+configure_services
+run_services
